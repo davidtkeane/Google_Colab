@@ -1,16 +1,16 @@
 ## Github
 
-[![Google Colabs](https://img.shields.io/badge/Google-Colabs%20-green?logo=google&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/PhoneBook-CLI)
+[![Google Colabs](https://img.shields.io/badge/Google-Colabs%20-green?logo=google&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/Google_Colab.git)
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) 
-![Version](https://img.shields.io/badge/Version-2.0-orange)
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative) 
+![Version](https://img.shields.io/badge/Version-2.0-orange?logo=v)
 
 ### Github Commits
 
-![GitHub last commit](https://img.shields.io/github/last-commit/davidtkeane/PhoneBook-CLI?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/davidtkeane/PhoneBook-CLI?authorFilter=davidtkeane)
-![GitHub issues](https://img.shields.io/github/issues-raw/davidtkeane/PhoneBook-CLI?style=flat-square)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/davidtkeane)
+![GitHub last commit](https://img.shields.io/github/last-commit/davidtkeane/Google_Colab?logo=github&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/davidtkeane/Google_Colab?logo=github&authorFilter=davidtkeane)
+![GitHub issues](https://img.shields.io/github/issues-raw/davidtkeane/Google_Colab?logo=github&style=flat-square)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/davidtkeane?logo=github&)
 
 ### Time @ Work!
 
@@ -19,15 +19,15 @@
 ### My Other Cool Scripts.
 
 [![Gmail Multi-Account CLI](https://img.shields.io/badge/Gmail-Multi--Account%20CLI-green?logo=gmail&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/gmail-multi-cli)
-[![Sleep CLI](https://img.shields.io/badge/Sleep-CLI-blue)](https://github.com/davidtkeane/Sleep-CLI)
-[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-blue)](https://github.com/davidtkeane/PhoneBook-CLI)
-[![Kermit ScreenSaver](https://img.shields.io/badge/kermit-screensaver-blue)](https://github.com/davidtkeane/kermit)
+[![Sleep CLI](https://img.shields.io/badge/Sleep-CLI-blue?logo=homeassistant)](https://github.com/davidtkeane/Sleep-CLI)
+[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-blue?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
+[![Kermit ScreenSaver](https://img.shields.io/badge/kermit-screensaver-blue?logo=gnometerminal)](https://github.com/davidtkeane/kermit)
 
 ### Socials
 
-[![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidtkeane)
-[![X](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidtkeane)
-[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidtkeane)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidtkeane)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidtkeane)
 
 ### Badges
 
@@ -35,9 +35,7 @@
 ![AppleMac-Badge](https://img.shields.io/badge/Apple-macOS-000000?logo=apple&logoColor=white&labelColor=black)
 ![Linux-Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&labelColor=white)
 
-
 [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=davidtkeane&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/davidtkeane)
-
 
 ## Description
 
