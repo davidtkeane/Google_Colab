@@ -1,9 +1,14 @@
+# Google Colabs
+
 ## Github
 
 [![Google Colabs](https://img.shields.io/badge/Google-Colabs%20-green?logo=google&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/Google_Colab.git)
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative) 
 ![Version](https://img.shields.io/badge/Version-2.0-orange?logo=v)
+
+<details>
+<summary>📊 Github Stats</summary>
 
 ### Github Commits
 
@@ -36,6 +41,8 @@
 ![Linux-Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&labelColor=white)
 
 [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=davidtkeane&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/davidtkeane)
+
+</details>
 
 ## Description
 
@@ -171,8 +178,8 @@ This script will allow you to sync files between Colab and Google Drive. Be sure
 
 ## Acknowledgment:
 
-Created by Ranger (Dec 2024) Version 1.0.0
-Modified by David Keane (Dec 31st 2024) Version 1.0.0
-Assisted by Gemini (Jan 10th 2024)
+Created by Ranger (Dec 2024) Version 1.0.0 <br>
+Modified by David Keane (Dec 31st 2024) Version 1.0.0 <br>
+Assisted by Gemini (Jan 10th 2024)<br>
 
 Feel free to customize the content as needed.
